@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@example.com",
+      "phone": "1234567890",
+      "gender": "Male",
+      "address": "123 Main St"
+    },
+    {
+      "id": 2,
+      "firstName": "Shikhar",
+      "lastName": "Dhavan",
+      "email": "sd@example.com",
+      "phone": "9876543210",
+      "gender": "Female",
+      "address": "456 Oak Ave"
+    },
+    {
+      "id": 3,
+      "firstName": "Alia",
+      "lastName": "Johnson",
+      "email": "alia@example.com",
+      "phone": "5551234567",
+      "gender": "Female",
+      "address": "789 Pine Rd"
+    },
+    {
+      "id": 4,
+      "firstName": "Bob",
+      "lastName": "Joshi",
+      "email": "bob@example.com",
+      "phone": "4445556666",
+      "gender": "Male",
+      "address": "321 Elm St"
+    },
+    {
+      "id": 5,
+      "firstName": "Sunil",
+      "lastName": "Wilson",
+      "email": "emma@example.com",
+      "phone": "2223334444",
+      "gender": "Female",
+      "address": "654 Maple Ln"
+    },
+    {
+      "id": 6,
+      "firstName": "David",
+      "lastName": "Clark",
+      "email": "david@example.com",
+      "phone": "1112223333",
+      "gender": "Male",
+      "address": "987 Cedar Blvd"
+    },
+    {
+      "id": 7,
+      "firstName": "Dhyan",
+      "lastName": "Martinez",
+      "email": "sophia@example.com",
+      "phone": "3334445555",
+      "gender": "Female",
+      "address": "852 Birch Way"
+    },
+    {
+      "id": 8,
+      "firstName": "Jaimin",
+      "lastName": "Rao",
+      "email": "james@example.com",
+      "phone": "6667778888",
+      "gender": "Male",
+      "address": "951 Poplar Dr"
+    },
+    {
+      "id": 9,
+      "firstName": "Olivia",
+      "lastName": "Khan",
+      "email": "olivia@example.com",
+      "phone": "7778889999",
+      "gender": "Female",
+      "address": "147 Spruce Ct"
+    },
+    {
+      "id": 10,
+      "firstName": "Tirth",
+      "lastName": "Patel",
+      "email": "tirth@example.com",
+      "phone": "8889990000",
+      "gender": "Male",
+      "address": "369 Fir St"
+    }
+  ]
+    
